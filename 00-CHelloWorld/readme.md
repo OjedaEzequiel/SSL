@@ -1,3 +1,8 @@
-Compilador:MinGW
-Version:(MinGW.org GCC-6.3.0-1) 6.3.0
-Version de C: #define __STDC_VERSION__ 201112L (Usa C11)
+## Compilador seleccionado
+MSYS2 MinGW-w64 (GCC)
+
+## Versión del compilador
+GCC 15.2.0
+
+## Versión de C que compila
+C23
