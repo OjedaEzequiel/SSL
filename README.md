@@ -1,7 +1,2 @@
 # SSL
-
-Apellido: Ojeda
-
-Nombre: Alejandro Ezequiel
-
-Comisión: K2002
+Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes 
